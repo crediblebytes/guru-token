@@ -1,0 +1,16 @@
+{
+  "name": "grading.guru",
+  "version": "1.0.0",
+  "description": "Outsource grading tool that uses smart contracts to allow two parties to interact & transact with each other completely anonymously and without the need of a 3rd party.",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Don Page",
+  "license": "ISC"
+}
