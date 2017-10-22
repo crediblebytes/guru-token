@@ -1,7 +1,7 @@
 {
-  "name": "grading-guru",
+  "name": "guru-token",
   "version": "1.0.0",
-  "description": "Outsource grading tool that uses smart contracts to allow two parties to interact & transact with each other completely anonymously and without the need of a 3rd party.",
+  "description": "Guru tokens are ethereum ERC-20 tokens used with an in-house tool called Grading Guru. Grading Guru is used to outsource grading from within an organization.",
   "main": "truffle.js",
   "directories": {
     "test": "test"

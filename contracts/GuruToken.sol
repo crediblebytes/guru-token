@@ -7,4 +7,7 @@ contract GuruToken is MintableToken {
     string public name = "Guru Token";
     string public symbol = "GURU";
     uint256 public decimals = 18;
+
+    // crowdsale params
+    
 }
